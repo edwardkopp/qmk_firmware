@@ -1,3 +1,11 @@
+A QMK fork recent enough to have support for ZSA Voyager, and with a different kinetic mouse implementation from [this fork](https://github.com/liyang/qmk_firmware/tree/develop/kinetic). The documentation for the custom implementation is [here](/docs/feature_mouse_keys.md).
+
+---
+
+Beyond this point on is the original README.
+
+---
+
 # Quantum Mechanical Keyboard Firmware
 
 [![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
