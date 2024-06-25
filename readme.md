@@ -1,4 +1,4 @@
-A QMK fork recent enough to have support for ZSA Voyager, and with a different kinetic mouse implementation from [this fork](https://github.com/liyang/qmk_firmware/tree/develop/kinetic). The documentation for the custom implementation is [here](/docs/feature_mouse_keys.md).
+A QMK fork recent enough to have support for ZSA Voyager, and with a different kinetic mouse implementation from [this fork](https://github.com/liyang/qmk_firmware/tree/develop/kinetic). The documentation for the custom implementation is [here](/docs/features/mouse_keys.md).
 
 ---
 
@@ -20,9 +20,9 @@ This is a keyboard firmware based on the [tmk\_keyboard firmware](https://github
 
 * [See the official documentation on docs.qmk.fm](https://docs.qmk.fm)
 
-The docs are powered by [Docsify](https://docsify.js.org/) and hosted on [GitHub](/docs/). They are also viewable offline; see [Previewing the Documentation](https://docs.qmk.fm/#/contributing?id=previewing-the-documentation) for more details.
+The docs are powered by [VitePress](https://vitepress.dev/). They are also viewable offline; see [Previewing the Documentation](https://docs.qmk.fm/#/contributing?id=previewing-the-documentation) for more details.
 
-You can request changes by making a fork and opening a [pull request](https://github.com/qmk/qmk_firmware/pulls), or by clicking the "Edit this page" link at the bottom of any page.
+You can request changes by making a fork and opening a [pull request](https://github.com/qmk/qmk_firmware/pulls).
 
 ## Supported Keyboards
 
