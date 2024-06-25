@@ -2,7 +2,7 @@ A QMK fork recent enough to have support for ZSA Voyager, and with a different k
 
 ---
 
-Beyond this point on is the original README.
+Beyond this point is the original README.
 
 ---
 
